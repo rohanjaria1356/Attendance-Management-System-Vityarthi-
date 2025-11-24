@@ -70,6 +70,4 @@ Run Instructions:
 
 3. Save the script as attendance.py.
 
-4. Run the project using the command:
-
-     python attendo.py
+4. Run the project.
